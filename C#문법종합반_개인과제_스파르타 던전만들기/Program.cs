@@ -12,7 +12,6 @@ namespace C_문법종합반_개인과제_스파르타_던전만들기
         {
             GameDataSetting();
             GameIntro();
-
         }
 
         static void GameDataSetting()
@@ -20,8 +19,6 @@ namespace C_문법종합반_개인과제_스파르타_던전만들기
             //캐릭터 정보 세팅
             player = new Character("Momo", "마법사", 1, 20, 5, 100, 2000);
             //아이템 정보 세팅
-          
-
         }
 
 
@@ -95,7 +92,6 @@ namespace C_문법종합반_개인과제_스파르타_던전만들기
                     GameIntro();
                     break;
             }
-
         }
 
         static void MyCharacterInventory()   //캐릭터 인벤토리
@@ -257,6 +253,4 @@ namespace C_문법종합반_개인과제_스파르타_던전만들기
             IsEarringEquipped = false;
         }
     }
-
-    
 }
