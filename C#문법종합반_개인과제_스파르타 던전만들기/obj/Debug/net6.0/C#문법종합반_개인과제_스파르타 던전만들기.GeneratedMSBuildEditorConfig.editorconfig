@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C_문법종합반_개인과제_스파르타_던전만들기
+build_property.ProjectDir = D:\내일배움캠프 유니티 2기\C# 문법 종합반\C#문법종합반_개인과제_스파르타 던전만들기\C#문법종합반_개인과제_스파르타 던전만들기\

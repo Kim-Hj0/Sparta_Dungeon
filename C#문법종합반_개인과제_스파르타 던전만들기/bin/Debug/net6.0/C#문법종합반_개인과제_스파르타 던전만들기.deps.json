@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#문법종합반_개인과제_스파르타 던전만들기/1.0.0": {
+        "runtime": {
+          "C#문법종합반_개인과제_스파르타 던전만들기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#문법종합반_개인과제_스파르타 던전만들기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
